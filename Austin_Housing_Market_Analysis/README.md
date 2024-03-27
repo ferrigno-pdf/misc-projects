@@ -1,7 +1,12 @@
 # Project Overview
 
 This project is dedicated to a thorough analysis of Austin's Housing Market. It aims to unravel the trends and patterns that characterize the historical and current state of the market by scrutinizing key indicators such as population growth, housing prices, and residence supply data.
+
 The inspiration for this project stems from Will Parker's comprehensive Wall Street Journal article relating to the subject. The article can be found at: https://www.wsj.com/economy/housing/once-americas-hottest-housing-market-austin-is-running-in-reverse-94226027?mod=Searchresults_pos1&page=1
+
+The Heatmap of Austin's residential permits cannot be viewed on GitHub directly. To view this Heatmap, please visit the following link: https://nbviewer.org/github/ferrigno-pdf/misc-projects/blob/main/Austin_Housing_Market_Analysis/Analyzing_ATX_Data.ipynb
+
+This link provides a view of the notebook where the Heatmap can be interacted with.
 
 # Objective
 
